@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36202.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "remove_myopia_filter", "remove_myopia_filter.csproj", "{63772CB3-5E2E-BDC0-0ED1-D5B0D55451AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63772CB3-5E2E-BDC0-0ED1-D5B0D55451AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63772CB3-5E2E-BDC0-0ED1-D5B0D55451AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63772CB3-5E2E-BDC0-0ED1-D5B0D55451AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63772CB3-5E2E-BDC0-0ED1-D5B0D55451AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D7203B9-8BE8-4950-9129-8E7F27E5685E}
+	EndGlobalSection
+EndGlobal
